@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Feel free to check out my projects !
+
+At the root of any of them, juste use "make" and follow the instructions :)
 <!--
 **willrsq1/willrsq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
