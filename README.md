@@ -3,6 +3,8 @@
 Feel free to check out my projects !
 
 At the root of any of them, juste use "make" and follow the instructions :)
+
+You can contact me if you need or want more informations, either as a student or as a recruiter !
 <!--
 **willrsq1/willrsq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
