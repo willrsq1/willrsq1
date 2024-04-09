@@ -2,15 +2,13 @@
 
 Feel free to check out my projects !
 
-At the root of any of them, juste use "make" and follow the instructions :)
+🔭 I’m currently looking for a full remote opportunity, in Europe or abroad
 
-You can contact me if you need or want more informations, either as a student or as a recruiter !
 <!--
 **willrsq1/willrsq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
