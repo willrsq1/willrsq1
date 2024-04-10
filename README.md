@@ -2,7 +2,6 @@
 
 Feel free to check out my projects !
 
-🔭 I’m currently looking for a full remote opportunity, in Europe or abroad
 
 <!--
 **willrsq1/willrsq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
