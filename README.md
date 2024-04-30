@@ -2,6 +2,8 @@
 
 Feel free to check out my projects !
 
+They all have been reuploaded to their latest up-to-date version, while the previous commits have been switched to private. I would happyli share them to discuss how I accomplished every project step by step!
+
 
 <!--
 **willrsq1/willrsq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
